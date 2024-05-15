@@ -1,4 +1,4 @@
-![logo](logo.svg)
+![logo](hezilogo.png)
 
 # TlbbBox <small>0.16.10</small>
 
